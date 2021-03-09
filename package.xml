@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package>
-  <name>vanttec_uuv</name>
+  <name>unimotorDrone</name>
   <version>1.0.0</version>
-  <description>VantTec Unmanned Underwater Vehicle package.</description>
+  <description>UniMotor Unmanned Aerial Vehicle package.</description>
   <license>GPLv2</license>
 
-  <maintainer email="pedro.sc.97@gmail.com">v01d</maintainer>
-  <author email="pedro.sc.97@gmail.com">v01d</author>
+  <maintainer email="gerardoberni19@gmail.com">v01d</maintainer>
+  <author email="gerardoberni19@gmail.com">v01d</author>
 
     <!-- Standard Dependencies -->
   <build_depend>std_msgs</build_depend>
